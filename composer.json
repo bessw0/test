@@ -18,7 +18,5 @@
         "bin/heroku-php-nginx"
     ],
 	"require": {
-        "ext-gd": "*",
-		"ext-mbstring": "*"
     }
 }
