@@ -1,0 +1,16 @@
+"platform": {
+        "php": "~5.5.0|~5.6.0"
+    },
+    "platform-dev": {
+        "lib-libxml": "*",
+        "ext-ctype": "*",
+        "ext-gd": "*",
+        "ext-spl": "*",
+        "ext-dom": "*",
+        "ext-simplexml": "*",
+        "ext-mcrypt": "*",
+        "ext-hash": "*",
+        "ext-curl": "*",
+        "ext-iconv": "*",
+        "ext-intl": "*"
+    }
